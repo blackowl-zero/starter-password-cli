@@ -17,5 +17,5 @@ You need a C compiler installed (like `gcc`).
 Clone the repository and compile the source file:
 
 ```bash
-gcc main.c -o password_manager
+gcc password_manager.c -o password_manager
 ./password_manager
